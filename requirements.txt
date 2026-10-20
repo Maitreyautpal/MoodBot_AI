@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+python-dotenv
+jupyter
+ipykernel
+langchain_huggingface
+langchain.core_messages
